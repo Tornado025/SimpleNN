@@ -1,4 +1,4 @@
-# simplenn
+# SimpleNN
 
 This repo contains a simple implementation of a neural network built from scratch using NumPy . It was not designed with testing or performance kept in mind and was only made for understanding purposes 
 
